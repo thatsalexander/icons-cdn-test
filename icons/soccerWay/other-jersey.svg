@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display: none">
+  <symbol id="football" viewBox="0 0 20 20" fill-rule="evenodd">
+    <path
+      d="m13.23 1 4.22 2.35L20 7.53l-2.55 2.3-1.6-1.18V19H4.15V8.65l-1.6 1.17L0 7.53l2.55-4.18L6.7 1.03c.71.84 1.8 1.26 3.3 1.26 1.65 0 2.66-.7 3.22-1.29Z"
+    />
+  </symbol>
+  <symbol id="ice-hockey" viewBox="0 0 20 20" fill-rule="evenodd">
+    <path
+      d="M10 2.2c1.56 0 2.55-.63 3.13-1.19l5.22 2.35 1.6 7.24L20 19h-3.35l-.62-9.64-.47-.51L15.33 19H4.65L4.43 8.86l-.46.5L3.35 19H0l.05-8.4 1.6-7.24L6.77 1c.71.8 1.79 1.2 3.23 1.2Z"
+    />
+  </symbol>
+  <symbol id="basketball" viewBox="0 0 20 20" fill-rule="evenodd">
+    <path
+      d="m13.25 0 2.71 1.03s-.67 1-.67 3.43c0 2.42 1.21 3.2 1.21 3.2V20h-13V7.68s1.33-.82 1.33-3.22c0-2.24-.68-3.28-.77-3.42h-.01v-.01h.04L6.76 0l.05.22c.54 2.4 1.6 3.6 3.17 3.6 2.38 0 3.23-3.67 3.27-3.82Z"
+    />
+  </symbol>
+</svg>

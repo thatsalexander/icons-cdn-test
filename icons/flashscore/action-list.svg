@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display: none">
+  <symbol id="action-list_quick-settings" viewBox="0 0 20 20" fill-rule="evenodd">
+    <path
+      d="M2.07 3.45V0h1.37v3.45h2.08v1.38H0V3.45h2.07ZM3.44 20H2.07V6.2h1.37V20ZM9.31 0v13.8H7.24v1.37h5.52V13.8h-2.07V0H9.3Zm1.38 20H9.3v-3.45h1.38V20Zm5.86-20v7.59h-2.07v1.37H20V7.6h-2.08V0h-1.37Zm1.38 20h-1.38v-9.66h1.38V20Z"
+    />
+  </symbol>
+  <symbol id="action-list_list-view" viewBox="0 0 20 20" fill-rule="evenodd">
+    <path
+      d="M1.37 2.41a1.04 1.04 0 1 0 2.07 0 1.04 1.04 0 0 0-2.07 0ZM0 2.41a2.41 2.41 0 1 1 4.83 0 2.41 2.41 0 0 1-4.83 0Zm6.2.69H20V1.72H6.2V3.1ZM1.38 10a1.04 1.04 0 1 0 2.08 0 1.04 1.04 0 0 0-2.08 0ZM0 10a2.41 2.41 0 1 1 4.83 0A2.41 2.41 0 0 1 0 10Zm20 .69H6.2V9.3H20v1.38ZM6.2 18.27H20V16.9H6.2v1.38Zm-4.83-.68a1.04 1.04 0 1 0 2.08 0 1.04 1.04 0 0 0-2.08 0Zm-1.37 0a2.41 2.41 0 1 1 4.83 0 2.41 2.41 0 0 1-4.83 0Z"
+    />
+  </symbol>
+  <symbol id="action-list_list-view-alt" viewBox="0 0 20 20" fill-rule="evenodd">
+    <path
+      d="M0 5.1h5.09V0H0v5.1Zm1.36-1.36h2.37V1.37H1.36v2.37Zm6.1 1.37h5.08V0H7.46v5.1Zm1.36-1.37h2.36V1.37H8.82v2.37ZM20 5.11H14.9V0H20v5.1Zm-1.36-1.37h-2.37V1.37h2.37v2.37ZM0 12.59h5.09v-5.1H0v5.1Zm1.36-1.37h2.37V8.85H1.36v2.37Zm9.82 0H8.82V8.85h2.36v2.37Zm1.36 1.37H7.46v-5.1h5.08v5.1Zm2.37 0H20v-5.1H14.9v5.1Zm1.36-1.37h2.37V8.85h-2.37v2.37ZM5.1 20H0v-5.1h5.09V20Zm-1.36-1.37H1.36v-2.37h2.37v2.37ZM7.46 20h5.08v-5.1H7.46V20Zm1.36-1.37h2.36v-2.37H8.82v2.37ZM20 20H14.9v-5.1H20V20Zm-1.36-1.37h-2.37v-2.37h2.37v2.37Z"
+    />
+  </symbol>
+  <symbol id="action-list_table" viewBox="0 0 20 20" fill-rule="evenodd">
+    <path d="M0 5.25h20v-1.5H0v1.5Zm0 5.5h20v-1.5H0v1.5Zm20 5.5H0v-1.5h20v1.5Z" />
+  </symbol>
+  <symbol id="action-list_table-advanced" viewBox="0 0 20 20" fill-rule="evenodd">
+    <path
+      d="M14 5.25H0v-1.5h14v1.5Zm0 5.5H0v-1.5h14v1.5Zm-14 5.5h14v-1.5H0v1.5Zm20-5.5h-4v-1.5h4v1.5Zm-4-5.5h4v-1.5h-4v1.5Zm4 11h-4v-1.5h4v1.5Z"
+    />
+  </symbol>
+  <symbol id="action-list_order" viewBox="0 0 20 20" fill-rule="evenodd">
+    <path d="M20 6.87H0V5.5h20v1.37Zm0 7.59H0v-1.37h20v1.37Z" />
+  </symbol>
+  <symbol id="action-list_order-alt" viewBox="0 0 20 20" fill-rule="evenodd">
+    <path
+      d="M7.45 3.45H4V0h3.45v3.45Zm8.28 0h-3.45V0h3.45v3.45ZM4 11.73h3.45V8.27H4v3.46Zm11.73 0h-3.45V8.27h3.45v3.46ZM12.28 20h3.44v-3.45h-3.44V20Zm-4.83 0H4v-3.45h3.45V20Z"
+    />
+  </symbol>
+</svg>
