@@ -1,166 +1,169 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display: none">
-  <symbol id="other-cycling_light-grey" viewBox="0 0 20 20" fill-rule="evenodd">
-    <path
-      fill="#c8cdcd"
-      d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
-    />
-    <path fill="black" fill-opacity="0.15" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
-  </symbol>
-  <symbol id="other-cycling_grey" viewBox="0 0 20 20" fill-rule="evenodd">
-    <path
-      fill="#999999"
-      d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
-    />
-    <path fill="black" fill-opacity="0.15" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
-  </symbol>
-  <symbol id="other-cycling_dark-grey" viewBox="0 0 20 20" fill-rule="evenodd">
-    <path
-      fill="#555e61"
-      d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
-    />
-    <path fill="black" fill-opacity="0.4" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
-  </symbol>
-  <symbol id="other-cycling_yellow" viewBox="0 0 20 20" fill-rule="evenodd">
-    <path
-      fill="#f4d42c"
-      d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
-    />
-    <path fill="black" fill-opacity="0.15" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
-  </symbol>
-  <symbol id="other-cycling_yellow-2" viewBox="0 0 20 20" fill-rule="evenodd">
-    <path
-      fill="#fcb008"
-      d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
-    />
-    <path fill="black" fill-opacity="0.15" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
-  </symbol>
-  <symbol id="other-cycling_orange" viewBox="0 0 20 20" fill-rule="evenodd">
-    <path
-      fill="#ee6e05"
-      d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
-    />
-    <path fill="black" fill-opacity="0.2" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
-  </symbol>
-  <symbol id="other-cycling_red" viewBox="0 0 20 20" fill-rule="evenodd">
-    <path
-      fill="#ee171d"
-      d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
-    />
-    <path fill="black" fill-opacity="0.25" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
-  </symbol>
-  <symbol id="other-cycling_pink" viewBox="0 0 20 20" fill-rule="evenodd">
-    <path
-      fill="#f08df4"
-      d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
-    />
-    <path fill="black" fill-opacity="0.2" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
-  </symbol>
-  <symbol id="other-cycling_aqua" viewBox="0 0 20 20" fill-rule="evenodd">
-    <path
-      fill="#13baf3"
-      d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
-    />
-    <path fill="black" fill-opacity="0.2" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
-  </symbol>
-  <symbol id="other-cycling_blue" viewBox="0 0 20 20" fill-rule="evenodd">
-    <path
-      fill="#1d46f8"
-      d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
-    />
-    <path fill="black" fill-opacity="0.4" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
-  </symbol>
-  <symbol id="other-cycling_green" viewBox="0 0 20 20" fill-rule="evenodd">
-    <path
-      fill="#6edb3c"
-      d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
-    />
-    <path fill="black" fill-opacity="0.2" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
-  </symbol>
-  <symbol id="other-cycling_red-dots" viewBox="0 0 20 20" fill-rule="evenodd">
-    <mask id="other-cycling_mask-a">
-      <path
-        fill="#fff"
-        d="m13.25 1.01 3.6 2.08L20 7.28l-3.14 2.3-1.55-1.44V19.3H4.61V8.2L3.13 9.58 0 7.28l3.14-4.2 3.59-2.07h6.52Z"
-      />
-    </mask>
-    <mask id="other-cycling_mask-b"><path fill="#fff" d="M-.75 19.36h21.42V.6H-.75v18.75Z" /></mask>
-    <g mask="url(#mask-a)" fill="#fff">
-      <path d="M-2.1-.73h24.11V20.7H-2.1z" />
-      <path
-        stroke="#B0B0B0"
-        stroke-width="2"
-        d="m13.25 1.01 3.6 2.08L20 7.28l-3.14 2.3-1.55-1.44V19.3H4.61V8.2L3.13 9.58 0 7.28l3.14-4.2 3.59-2.07h6.52Z"
-      />
-      <g fill="#EE171D" mask="url(#mask-b)">
-        <circle cx="-1.42" cy="2.62" r="2" />
-        <circle cx="2.6" cy="6.64" r="2" />
-        <circle cx="6.61" cy="2.62" r="2" />
-        <circle cx="10.63" cy="6.64" r="2" />
-        <circle cx="14.65" cy="2.62" r="2" />
-        <circle cx="18.66" cy="6.64" r="2" />
-        <circle cx="-1.42" cy="10.66" r="2" />
-        <circle cx="2.6" cy="14.67" r="2" />
-        <circle cx="6.61" cy="10.66" r="2" />
-        <circle cx="10.63" cy="14.67" r="2" />
-        <circle cx="14.65" cy="10.66" r="2" />
-        <circle cx="18.66" cy="14.67" r="2" />
-        <circle cx="-1.42" cy="18.69" r="2" />
-        <circle cx="6.61" cy="18.69" r="2" />
-        <circle cx="14.65" cy="18.69" r="2" />
-      </g>
-      <path fill="black" fill-opacity=".4" d="M7 1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
-    </g>
-  </symbol>
-  <symbol id="other-cycling_blue-dots" viewBox="0 0 20 20" fill-rule="evenodd">
-    <mask id="other-cycling_mask-c">
-      <path
-        fill="#fff"
-        d="m13.25 1.01 3.6 2.08L20 7.28l-3.14 2.3-1.55-1.44V19.3H4.61V8.2L3.13 9.58 0 7.28l3.14-4.2 3.59-2.07h6.52Z"
-      />
-    </mask>
-    <mask id="other-cycling_mask-d"><path fill="#fff" d="M-.75 19.36h21.42V.6H-.75v18.75Z" /></mask>
-    <g mask="url(#mask-c)" fill="#fff">
-      <path d="M-2.1-.73h24.11V20.7H-2.1z" />
-      <path
-        stroke="#B0B0B0"
-        stroke-width="2"
-        d="m13.25 1.01 3.6 2.08L20 7.28l-3.14 2.3-1.55-1.44V19.3H4.61V8.2L3.13 9.58 0 7.28l3.14-4.2 3.59-2.07h6.52Z"
-      />
-      <g fill="#1D8BF8" mask="url(#mask-d)">
-        <circle cx="-1.42" cy="2.62" r="2" />
-        <circle cx="2.6" cy="6.64" r="2" />
-        <circle cx="6.61" cy="2.62" r="2" />
-        <circle cx="10.63" cy="6.64" r="2" />
-        <circle cx="14.65" cy="2.62" r="2" />
-        <circle cx="18.66" cy="6.64" r="2" />
-        <circle cx="-1.42" cy="10.66" r="2" />
-        <circle cx="2.6" cy="14.67" r="2" />
-        <circle cx="6.61" cy="10.66" r="2" />
-        <circle cx="10.63" cy="14.67" r="2" />
-        <circle cx="14.65" cy="10.66" r="2" />
-        <circle cx="18.66" cy="14.67" r="2" />
-        <circle cx="-1.42" cy="18.69" r="2" />
-        <circle cx="6.61" cy="18.69" r="2" />
-        <circle cx="14.65" cy="18.69" r="2" />
-      </g>
-      <path fill="black" fill-opacity=".4" d="M7 1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
-    </g>
-  </symbol>
-  <symbol id="other-cycling_rainbow" viewBox="0 0 20 20" fill-rule="evenodd">
-    <g clip-path="url(#clip-a)">
-      <path
-        fill="#DFDFDF"
-        d="m13.25 1.1 3.6 2.04L20 7.25l-3.14 2.26-1.55-1.84V19.1H4.62V7.83L3.13 9.5 0 7.26l3.14-4.12L6.73 1.1h6.52z"
-      />
-      <path fill="#000" fill-opacity=".15" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7z" />
-    </g>
-    <path fill="#1B84E5" d="M4.7 9.83h10.52V8.52H4.7v1.31z" />
-    <path fill="#E71B1F" d="M4.7 11.15h10.52V9.83H4.7v1.32z" />
-    <path fill="#171717" d="M4.7 12.46h10.52v-1.31H4.7v1.31z" />
-    <path fill="#FECE29" d="M4.7 13.78h10.52v-1.32H4.7v1.32z" />
-    <path fill="#66A400" d="M4.7 15.1h10.52v-1.32H4.7v1.32z" />
-    <defs>
-      <clipPath id="other-cycling_clip-a"><path fill="#fff" d="M0 1h20v19H0z" /></clipPath>
-    </defs>
-  </symbol>
+    <symbol id="other-cycling_light-grey" viewBox="0 0 20 20" fill-rule="evenodd">
+        <path
+                fill="#c8cdcd"
+                d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
+        />
+        <path fill="black" fill-opacity="0.15" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
+    </symbol>
+    <symbol id="other-cycling_grey" viewBox="0 0 20 20" fill-rule="evenodd">
+        <path
+                fill="#999999"
+                d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
+        />
+        <path fill="black" fill-opacity="0.15" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
+    </symbol>
+    <symbol id="other-cycling_dark-grey" viewBox="0 0 20 20" fill-rule="evenodd">
+        <path
+                fill="#555e61"
+                d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
+        />
+        <path fill="black" fill-opacity="0.4" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
+    </symbol>
+    <symbol id="other-cycling_yellow" viewBox="0 0 20 20" fill-rule="evenodd">
+        <path
+                fill="#f4d42c"
+                d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
+        />
+        <path fill="black" fill-opacity="0.15" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
+    </symbol>
+    <symbol id="other-cycling_yellow-2" viewBox="0 0 20 20" fill-rule="evenodd">
+        <path
+                fill="#fcb008"
+                d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
+        />
+        <path fill="black" fill-opacity="0.15" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
+    </symbol>
+    <symbol id="other-cycling_orange" viewBox="0 0 20 20" fill-rule="evenodd">
+        <path
+                fill="#ee6e05"
+                d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
+        />
+        <path fill="black" fill-opacity="0.2" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
+    </symbol>
+    <symbol id="other-cycling_red" viewBox="0 0 20 20" fill-rule="evenodd">
+        <path
+                fill="#ee171d"
+                d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
+        />
+        <path fill="black" fill-opacity="0.25" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
+    </symbol>
+    <symbol id="other-cycling_pink" viewBox="0 0 20 20" fill-rule="evenodd">
+        <path
+                fill="#f08df4"
+                d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
+        />
+        <path fill="black" fill-opacity="0.2" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
+    </symbol>
+    <symbol id="other-cycling_aqua" viewBox="0 0 20 20" fill-rule="evenodd">
+        <path
+                fill="#13baf3"
+                d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
+        />
+        <path fill="black" fill-opacity="0.2" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
+    </symbol>
+    <symbol id="other-cycling_blue" viewBox="0 0 20 20" fill-rule="evenodd">
+        <path
+                fill="#1d46f8"
+                d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
+        />
+        <path fill="black" fill-opacity="0.4" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
+    </symbol>
+    <symbol id="other-cycling_green" viewBox="0 0 20 20" fill-rule="evenodd">
+        <path
+                fill="#6edb3c"
+                d="m13.25 1.1 3.6 2.04L20 7.26l-3.14 2.26-1.55-1.84V19.1H4.61V7.85L3.13 9.52 0 7.26l3.14-4.12L6.73 1.1h6.52Z"
+        />
+        <path fill="black" fill-opacity="0.2" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
+    </symbol>
+    <symbol id="other-cycling_red-dots" viewBox="0 0 20 20" fill-rule="evenodd">
+        <mask id="other-cycling_mask-a">
+            <path
+                    fill="#fff"
+                    d="m13.25 1.01 3.6 2.08L20 7.28l-3.14 2.3-1.55-1.44V19.3H4.61V8.2L3.13 9.58 0 7.28l3.14-4.2 3.59-2.07h6.52Z"
+            />
+        </mask>
+        <mask id="other-cycling_mask-b"><path fill="#fff" d="M-.75 19.36h21.42V.6H-.75v18.75Z" /></mask>
+        <g mask="url(#mask-a)" fill="#fff">
+            <path d="M-2.1-.73h24.11V20.7H-2.1z" />
+            <path
+                    stroke="#B0B0B0"
+                    stroke-width="2"
+                    d="m13.25 1.01 3.6 2.08L20 7.28l-3.14 2.3-1.55-1.44V19.3H4.61V8.2L3.13 9.58 0 7.28l3.14-4.2 3.59-2.07h6.52Z"
+            />
+            <g fill="#EE171D" mask="url(#mask-b)">
+                <circle cx="-1.42" cy="2.62" r="2" />
+                <circle cx="2.6" cy="6.64" r="2" />
+                <circle cx="6.61" cy="2.62" r="2" />
+                <circle cx="10.63" cy="6.64" r="2" />
+                <circle cx="14.65" cy="2.62" r="2" />
+                <circle cx="18.66" cy="6.64" r="2" />
+                <circle cx="-1.42" cy="10.66" r="2" />
+                <circle cx="2.6" cy="14.67" r="2" />
+                <circle cx="6.61" cy="10.66" r="2" />
+                <circle cx="10.63" cy="14.67" r="2" />
+                <circle cx="14.65" cy="10.66" r="2" />
+                <circle cx="18.66" cy="14.67" r="2" />
+                <circle cx="-1.42" cy="18.69" r="2" />
+                <circle cx="6.61" cy="18.69" r="2" />
+                <circle cx="14.65" cy="18.69" r="2" />
+            </g>
+            <path fill="black" fill-opacity=".4" d="M7 1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
+        </g>
+    </symbol>
+    <symbol id="other-cycling_blue-dots" viewBox="0 0 20 20" fill-rule="evenodd">
+        <defs>
+            <mask id="a">
+                <path
+                        fill="#fff"
+                        fill-rule="evenodd"
+                        d="m13.25 1.01 3.6 2.08L20 7.28l-3.14 2.3-1.55-1.44V19.3H4.61V8.2L3.13 9.58 0 7.28l3.14-4.2 3.59-2.07h6.52Z"
+                />
+            </mask>
+            <mask id="b"><path fill="#fff" d="M-.75 19.36h21.42V.6H-.75v18.75Z" /></mask>
+        </defs>
+        <g mask="url(#a)" fill="#fff">
+            <path d="M-2.1-.73h24.11V20.7H-2.1z" />
+            <path
+                    stroke="#B0B0B0"
+                    stroke-width="2"
+                    d="m13.25 1.01 3.6 2.08L20 7.28l-3.14 2.3-1.55-1.44V19.3H4.61V8.2L3.13 9.58 0 7.28l3.14-4.2 3.59-2.07h6.52Z"
+            />
+            <g fill="#EE171D" mask="url(#b)">
+                <circle cx="-1.42" cy="2.62" r="2" />
+                <circle cx="2.6" cy="6.64" r="2" />
+                <circle cx="6.61" cy="2.62" r="2" />
+                <circle cx="10.63" cy="6.64" r="2" />
+                <circle cx="14.65" cy="2.62" r="2" />
+                <circle cx="18.66" cy="6.64" r="2" />
+                <circle cx="-1.42" cy="10.66" r="2" />
+                <circle cx="2.6" cy="14.67" r="2" />
+                <circle cx="6.61" cy="10.66" r="2" />
+                <circle cx="10.63" cy="14.67" r="2" />
+                <circle cx="14.65" cy="10.66" r="2" />
+                <circle cx="18.66" cy="14.67" r="2" />
+                <circle cx="-1.42" cy="18.69" r="2" />
+                <circle cx="6.61" cy="18.69" r="2" />
+                <circle cx="14.65" cy="18.69" r="2" />
+            </g>
+            <path fill="#000" fill-opacity=".4" d="M7 1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
+        </g>
+    </symbol>
+    <symbol id="other-cycling_rainbow" viewBox="0 0 20 20" fill-rule="evenodd">
+        <g clip-path="url(#clip-a)">
+            <path
+                    fill="#DFDFDF"
+                    d="m13.25 1.1 3.6 2.04L20 7.25l-3.14 2.26-1.55-1.84V19.1H4.62V7.83L3.13 9.5 0 7.26l3.14-4.12L6.73 1.1h6.52z"
+            />
+            <path fill="#000" fill-opacity=".15" d="M7 1.1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7z" />
+        </g>
+        <path fill="#1B84E5" d="M4.7 9.83h10.52V8.52H4.7v1.31z" />
+        <path fill="#E71B1F" d="M4.7 11.15h10.52V9.83H4.7v1.32z" />
+        <path fill="#171717" d="M4.7 12.46h10.52v-1.31H4.7v1.31z" />
+        <path fill="#FECE29" d="M4.7 13.78h10.52v-1.32H4.7v1.32z" />
+        <path fill="#66A400" d="M4.7 15.1h10.52v-1.32H4.7v1.32z" />
+        <defs>
+            <clipPath id="other-cycling_clip-a"><path fill="#fff" d="M0 1h20v19H0z" /></clipPath>
+        </defs>
+    </symbol>
 </svg>
