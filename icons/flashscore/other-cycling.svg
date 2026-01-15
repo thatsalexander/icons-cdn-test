@@ -113,23 +113,29 @@
     </symbol>
     <symbol id="other-cycling_blue-dots" viewBox="0 0 20 20" fill-rule="evenodd">
         <defs>
-            <mask id="a">
+            <mask id="other-cycling_blue-dots-mask-a" maskUnits="userSpaceOnUse">
                 <path
                         fill="#fff"
                         fill-rule="evenodd"
                         d="m13.25 1.01 3.6 2.08L20 7.28l-3.14 2.3-1.55-1.44V19.3H4.61V8.2L3.13 9.58 0 7.28l3.14-4.2 3.59-2.07h6.52Z"
                 />
             </mask>
-            <mask id="b"><path fill="#fff" d="M-.75 19.36h21.42V.6H-.75v18.75Z" /></mask>
+
+            <mask id="other-cycling_blue-dots-mask-b" maskUnits="userSpaceOnUse">
+                <path fill="#fff" d="M-.75 19.36h21.42V.6H-.75v18.75Z" />
+            </mask>
         </defs>
-        <g mask="url(#a)" fill="#fff">
+
+        <g mask="url(#other-cycling_blue-dots-mask-a)" fill="#fff">
             <path d="M-2.1-.73h24.11V20.7H-2.1z" />
+
             <path
                     stroke="#B0B0B0"
                     stroke-width="2"
                     d="m13.25 1.01 3.6 2.08L20 7.28l-3.14 2.3-1.55-1.44V19.3H4.61V8.2L3.13 9.58 0 7.28l3.14-4.2 3.59-2.07h6.52Z"
             />
-            <g fill="#EE171D" mask="url(#b)">
+
+            <g fill="#EE171D" mask="url(#other-cycling_blue-dots-mask-b)">
                 <circle cx="-1.42" cy="2.62" r="2" />
                 <circle cx="2.6" cy="6.64" r="2" />
                 <circle cx="6.61" cy="2.62" r="2" />
@@ -146,6 +152,7 @@
                 <circle cx="6.61" cy="18.69" r="2" />
                 <circle cx="14.65" cy="18.69" r="2" />
             </g>
+
             <path fill="#000" fill-opacity=".4" d="M7 1c.59 2.11 1.02 4 3 4s2.44-1.89 3-4H7Z" />
         </g>
     </symbol>
